@@ -1,8 +1,9 @@
 ## Hi there 👋
 
 <p align="center"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NanaFujishima&layout=compact&theme=dracula" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=NanaFujishima&theme=dracula&show_icons=true" />
+
+  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api?username=NanaFujishima&theme=dracula&show_icons=true" />
+  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NanaFujishima&layout=compact&theme=dracula" />
 </p>
 
 
