@@ -2,6 +2,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NanaFujishima&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NanaFujishima&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **NanaFujishima/NanaFujishima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
