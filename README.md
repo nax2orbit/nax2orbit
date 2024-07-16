@@ -1,8 +1,7 @@
-## Hi there 👋
-
+## Ⲏⲓ ⲧⲏⲉꞅⲉ 👋
+                                                        
 <p align="center"> 
-
-  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api?username=NanaFujishima&theme=dracula&show_icons=true" />
+  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api?username=NanaFujishima&theme=dracula&show_icons=true" /><br>
   <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NanaFujishima&layout=compact&theme=dracula" />
 </p>
 
