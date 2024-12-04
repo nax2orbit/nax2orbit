@@ -6,6 +6,8 @@
   <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NanaFujishima&layout=compact&theme=shadow_red" />
 </a>
 
+![Demo Gif](assets/demo.gif)
+
 <!--<p align="center"> 
   <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api?username=NanaFujishima&theme=shadow_red&show_icons=true&count_private=true" /><br>
   <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NanaFujishima&layout=compact&theme=dracula" />
