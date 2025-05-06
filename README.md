@@ -1,7 +1,7 @@
 ## Ⲏⲓ ⲧⲏⲉꞅⲉ 👋
 
 <div style="text-align: center; padding: 20px;">
-  <img src="assets/stars.gif" alt="Background Image" style="width: 100%; height: auto; position: absolute; z-index: -1; top: 0; left: 0;">
+  <img src="assets/stars.gif" alt="Background Image" style="width: 70%; height: auto; position: absolute; z-index: -1; top: 0; left: 0;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img alt="github stats" height="170px" src="https://github-readme-stats-f7s-projects.vercel.app/api?username=nax2orbit&theme=chartreuse-dark&show_icons=true&count_private=true" />
   </a>
