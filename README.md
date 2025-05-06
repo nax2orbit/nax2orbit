@@ -6,7 +6,7 @@
     <img alt="github stats" height="170px" src="https://github-readme-stats-f7s-projects.vercel.app/api?username=nax2orbit&theme=chartreuse-dark&show_icons=true&count_private=true" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Top Langs" height="170px" src="https://github-readme-stats-f7s-projects.vercel.app/api/top-langs/?username=nax2orbit&layout=compact&theme=chartreuse-dark" />
+    <img alt="Top Langs" height="170px" src="https://github-readme-stats-f7s-projects.vercel.app/api/top-langs/?username=nax2orbit&layout=compact&theme=chartreuse-dark&count_private=true" />
   </a>
 </div>
 
