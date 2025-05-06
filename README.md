@@ -3,10 +3,10 @@
 <div style="text-align: center; padding: 20px;">
   <img src="assets/stars.gif" alt="Background Image" style="width: 100%; height: auto; position: absolute; z-index: -1; top: 0; left: 0;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api?username=nax2orbit&theme=chartreuse-dark&show_icons=true&count_private=true" />
+    <img alt="github stats" height="170px" src="https://github-readme-stats-f7s-projects.vercel.app/api?username=nax2orbit&theme=chartreuse-dark&show_icons=true&count_private=true" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nax2orbit&layout=compact&theme=chartreuse-dark" />
+    <img alt="Top Langs" height="170px" src="https://github-readme-stats-f7s-projects.vercel.app/api/top-langs/?username=nax2orbit&layout=compact&theme=chartreuse-dark" />
   </a>
 </div>
 
